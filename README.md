@@ -42,3 +42,10 @@
 - **파일 업로드**: AWS S3 (상품 이미지 및 프로필 사진)
 - **프론트엔드**: HTML, CSS, JavaScript (Django Templates)
 - **버전 관리**: Git, GitHub
+
+
+---
+
+## ERD 다이어그램
+
+![alt text](image-2.png)
